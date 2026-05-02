@@ -9,4 +9,4 @@ resources:
 images:
 - name: devryner/hello-app
   newName: devryner/hello-app
-  newTag: 183ba72
+  newTag: 8e1f8ac
